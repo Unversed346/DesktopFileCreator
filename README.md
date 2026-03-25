@@ -3,7 +3,7 @@
 
 I've decided the unique linux users would enjoy a script to make Desktop files easier. Feel free to improve on it!
 
-For extra information the install.sh file is optional you don't need to use it.
+For extra information the install.sh file is optional you don't need to use it. You need to make it executable `chmod +x install.sh`
 
 What it does:
 
